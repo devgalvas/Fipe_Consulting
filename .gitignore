@@ -1,0 +1,43 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Adições Customizadas ###
+# Evita subir a pasta de compilação nativa do IntelliJ (aquela que nos causou o erro de classpath mais cedo!)
+out/
+
+# Evita subir logs gerados pela aplicação na sua máquina
+*.log
+
+# Evita subir arquivos de sistema do Windows
+Thumbs.db
