@@ -24,7 +24,7 @@ Um sistema de linha de comando (CLI) desenvolvido em Java com Spring Boot para c
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/devgalvas/Fipe_Consulting.git](https://github.com/devgalvas/Fipe_Consulting.git)
+git clone https://github.com/devgalvas/Fipe_Consulting.git
 ```
 2. Entre na pasta do projeto:
 ```bash
